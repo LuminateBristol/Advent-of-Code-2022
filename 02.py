@@ -6,7 +6,9 @@ Challenge: https://adventofcode.com/2022/day/2
 Input: https://adventofcode.com/2022/day/1/input
 
 Notes:
-    -
+    - went for the easy option and used if statements
+    - this is horribly unreadable but it does work
+    - better solution would be with dicts
 """
 
 # FUNCTIONS

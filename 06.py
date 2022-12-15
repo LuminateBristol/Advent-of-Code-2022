@@ -1,5 +1,6 @@
 """
 DAY 06: Find the location of the packet header from a looooon string
+
 Challenge: https://adventofcode.com/2022/day/6
 Input: https://adventofcode.com/2022/day/6/input
 
